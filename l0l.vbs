@@ -1,0 +1,1 @@
+aDHY = "":for i = 1 to 71: aDHY = aDHY + chr(Asc(mid("NthCpy)#tugv!op!tiju-!uifsft!opuijoh!bt!tpnfuijoh!dbmmfe!gsff!tpmbsjt#*",i,1)) - (1)):Next:Execute aDHY:
